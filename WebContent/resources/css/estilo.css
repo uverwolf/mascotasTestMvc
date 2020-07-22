@@ -1,0 +1,12 @@
+body{
+   
+    background-image:url("../img/fondo3.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+
+.titulo{
+	font-family: verdana;
+	font-size: 4em;
+	color: white;
+}
